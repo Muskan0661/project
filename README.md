@@ -1,4 +1,2 @@
 # projects
-1.Hospital Management System
-
-2.Max sum of SubArray
+I have uplaoded all the projects i have build till now
