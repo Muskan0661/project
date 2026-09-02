@@ -12,7 +12,8 @@ def move_left():
     current_x = player.xcor()
     new_x = current_x - movement_amount
     player.setx(new_x)
-      
+     
+     mukan mkahija 
     
 def move_right():
     current_x = player.xcor()
